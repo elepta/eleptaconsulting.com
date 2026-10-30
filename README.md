@@ -1,9 +1,11 @@
-# Elepta Consulting V2
+Elepta Consulting metadata V3
 
-Upload all files in this folder to the ROOT of the GitHub Pages repository.
+Upload/replace:
+- index.html
+- elepta-consulting-preview-v3.jpg
 
-Social preview image:
-https://eleptaconsulting.com/elepta-consulting-germany-v2.jpg
+Keep your existing favicon.png unchanged. A byte-for-byte copy is included only for convenience.
+CNAME remains eleptaconsulting.com.
 
-After GitHub Pages deploys, open that image URL directly in a browser first.
-Then test sharing https://eleptaconsulting.com/ in a NEW WhatsApp chat.
+New preview URL:
+https://eleptaconsulting.com/elepta-consulting-preview-v3.jpg

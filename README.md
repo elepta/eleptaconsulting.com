@@ -1,11 +1,9 @@
-# Elepta Consulting website
+# Elepta Consulting V2
 
-GitHub Pages custom domain: https://eleptaconsulting.com/
+Upload all files in this folder to the ROOT of the GitHub Pages repository.
 
-Files:
-- index.html — website
-- elepta-consulting-preview.png — WhatsApp/social preview
-- favicon.png — browser icon
-- CNAME — GitHub Pages custom-domain configuration
+Social preview image:
+https://eleptaconsulting.com/elepta-consulting-germany-v2.jpg
 
-Upload these files to the root of the GitHub repository, enable GitHub Pages for the repository, and set the custom domain to eleptaconsulting.com.
+After GitHub Pages deploys, open that image URL directly in a browser first.
+Then test sharing https://eleptaconsulting.com/ in a NEW WhatsApp chat.
